@@ -1,0 +1,22 @@
+{
+  "name": "Cupid-Backend",
+  "version": "1.0.0",
+  "description": "cupid backend built with Koa",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHvsMK/Cupid"
+  },
+  "author": "SHvsMK <SHvsMK@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa-bodyparser": "^4.2.0",
+    "koa-logger": "^2.0.1",
+    "koa-router": "^7.1.1",
+    "usergrid": "^2.0.0-rc.2",
+    "yarn": "^0.21.3"
+  },
+  "devDependencies": {}
+}
